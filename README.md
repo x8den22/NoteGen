@@ -8,7 +8,7 @@ pip install python-pptx reportlab
 
 ## Usage
 Run the application:
-ngUI.py
+NoteGenUI.py
 
 - LINE SPACING AND MARGINS are in POINTS (1 inch = 72pts)
 - Only .ttf fonts work
